@@ -16,6 +16,8 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resutados obtidos
 
-![Alt text](./passwd.png "Optional title")
+![image](https://github.com/joyceximenes/cibersecurity-desafio-phishing/assets/91160284/f9605bf7-db1d-49ba-9975-4e34bd93b1fa)
+
+
